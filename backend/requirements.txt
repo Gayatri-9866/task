@@ -1,0 +1,12 @@
+fastapi==0.109.2  # More recent version to support Python 3.13
+pydantic==1.10.13  # Latest 1.x version to stay compatible with FastAPI
+uvicorn==0.27.1
+python-jose==3.3.0
+passlib==1.7.4
+python-multipart==0.0.6
+supabase==1.0.3
+tablib[xlsx]==3.5.0
+fpdf2==2.7.6
+google-auth==2.19.0
+requests==2.31.0
+python-dotenv==1.0.0

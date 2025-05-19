@@ -9,4 +9,4 @@ tablib[xlsx]==3.5.0
 fpdf2==2.7.6
 google-auth==2.19.0
 requests==2.31.0
-python-dotenv==1.0.0
+python-dotenv==1.0.0"pydantic[email]" 
